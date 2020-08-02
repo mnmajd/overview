@@ -3,6 +3,8 @@
 <a href="https://www.linkedin.com/in/majd-mimoun/">
   <img align="left" alt="Majd Mimoun | Linkedin" width="20px" targer="_blank" src="https://web.centria.fi/Data/content/LinkedIn_logo_border.jpg" />
 </a>
+<br />
+
 
 <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="majdmn" />
 <br />
