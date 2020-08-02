@@ -8,8 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="majdmn" />
 <br />
-<br />
-<br />
+
 
 Hi, I'm Majd Mimoun, a passionate self-taught full stack web developer from Tunisia.
 
