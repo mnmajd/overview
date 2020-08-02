@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majd Mimoun</h1>
-<h3 align="center">A passionate Full stack engineer  from Tunisia</h3>
+<h3 align="center">A passionate Full stack engineer developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="mnmajd" /> </p>
 
@@ -15,4 +15,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/majd-mimoun/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/majd-mimoun/" height="20" width="20" /></a>
+<a href="https://instagram.com/majd.mimoun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="majd.mimoun" height="20" width="20" /></a>
 </p>
