@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majd Mimoun</h1>
-<h3 align="center">A passionate Full stack engineer developer from Tunisia</h3>
+<h3 align="center">A passionate Full stack engineer  from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="mnmajd" /> </p>
 
