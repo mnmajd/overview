@@ -1,47 +1,18 @@
-### Hi there, I'm [Majd!](https://www.linkedin.com/in/majd-mimoun/) 👋
+<h1 align="center">Hi 👋, I'm Majd Mimoun</h1>
+<h3 align="center">A passionate Full stack engineer developer from Tunisia</h3>
 
-<a href="https://www.linkedin.com/in/majd-mimoun/">
-  <img align="left" alt="Majd Mimoun | Linkedin" width="20px" targer="_blank" src="https://web.centria.fi/Data/content/LinkedIn_logo_border.jpg" />
-</a>
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="mnmajd" /> </p>
 
+- 🔭 I’m currently working with **HZ in Paris.**
 
-<img src="https://komarev.com/ghpvc/?username=mnmajd" alt="majdmn" />
-<br />
+- 🌱 I’m currently learning **GraphQL & AWS**
 
+- 💬 Ask me about **React,Node.js,Javascript**
 
-Hi, I'm Majd Mimoun, a passionate self-taught full stack web developer from Tunisia.
+- 📫 How to reach me **majdmn6@gmail.com**
 
-- 🔭 I’m currently working with HZ in Paris
-- 🌱 I’m currently learning GraphQL & AWS
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/mnmajd/overview/issues)
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mnmajd&show_icons=true" alt="mnmajd" /> </p>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>    
-
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mnmajd&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mnmajd&layout=compact&theme=radical" />
-</a>
-
-
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/majd-mimoun/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/majd-mimoun/" height="20" width="20" /></a>
+</p>
