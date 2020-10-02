@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="mnmajd" /> </p>
 
-- 🔭 I’m currently working with **HZ in Paris.**
+- 🔭 I’m currently working with **IYA SOFT** as a software engineer.
 
-- 🌱 I’m currently learning **GraphQL & AWS**
+- 🌱 I’m currently learning **GraphQL & Azure**
 
 - 💬 Ask me about **React,Node.js,Javascript**
 
