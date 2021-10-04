@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="mnmajd" /> </p>
 
-- 🔭 I’m currently working with **IYA SOFT** as a software engineer.
+- 🔭 I’m currently working with **Zaion** as a full stack software engineer.
 
 - 🌱 I’m currently learning **GraphQL & Azure**
 
