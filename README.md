@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnmajd" alt="mnmajd" /> </p>
 
-- 🔭 I’m currently working with **Zaion** as a full stack software engineer.
+- 🔭 I’m currently working with **GLC** as a full stack software engineer and AWS developper.
 
-- 🌱 I’m currently learning **GraphQL & Azure**
+- 🌱 I’m currently learning **AWS & clean architechture**
 
 - 💬 Ask me about **React,Node.js,Javascript**
 
